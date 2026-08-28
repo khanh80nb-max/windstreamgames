@@ -1,10 +1,10 @@
 import { ArrowRight, Globe, Sparkles, Users } from "lucide-react";
 
 const stats = [
-  { icon: Users, value: "5M+", label: "Players" },
-  { icon: Globe, value: "150+", label: "Countries" },
-  { icon: Sparkles, value: "12", label: "Live titles" },
-  { icon: ArrowRight, value: "24h", label: "Update cycle" },
+  { icon: Users, value: "1", label: "Independent studio" },
+  { icon: Globe, value: "2", label: "Platforms" },
+  { icon: Sparkles, value: "4", label: "Published games" },
+  { icon: ArrowRight, value: "2026", label: "Founded" },
 ];
 
 export function About() {
@@ -52,7 +52,7 @@ export function About() {
               ))}
             </div>
             <p className="mt-8 border-t border-white/10 pt-6 text-sm leading-7 text-white/60">
-              PuzzleCraft is positioned as a compact mobile-first studio with a sharper,
+              Whe Studio is a compact mobile-first studio with a sharper,
               more editorial presentation. The page now communicates that in the first few
               scrolls instead of hiding it behind repeated cards and gradients.
             </p>

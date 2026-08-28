@@ -30,7 +30,7 @@ export function AccountDeletionPage() {
             </h1>
             <p className="mt-5 max-w-3xl text-lg leading-8 text-slate-600">
               This page is the public web resource users can use to request deletion of an app
-              account and associated data for any REN DESIGN or ACEDev app or service that
+              account and associated data for any REN DESIGN or Whe Studio app or service that
               supports account creation.
             </p>
             <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">

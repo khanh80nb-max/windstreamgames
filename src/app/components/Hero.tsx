@@ -22,7 +22,7 @@ export function Hero() {
           </h1>
 
           <p className="mt-6 max-w-lg text-lg leading-8 text-slate-600 md:text-xl">
-            ACEDev builds mobile games and digital products with a clean interface,
+            Whe Studio builds mobile games and digital products with a clean interface,
             practical execution, and a sharper publishing footprint.
           </p>
 
@@ -49,16 +49,16 @@ export function Hero() {
 
           <div className="mt-10 grid max-w-xl gap-4 border-t border-black/10 pt-6 sm:grid-cols-3">
             <div>
-              <div className="text-3xl font-semibold tracking-[-0.04em] text-slate-950">12</div>
-              <p className="mt-1 text-sm text-slate-500">live puzzle titles</p>
+              <div className="text-3xl font-semibold tracking-[-0.04em] text-slate-950">4</div>
+              <p className="mt-1 text-sm text-slate-500">published games</p>
             </div>
             <div>
-              <div className="text-3xl font-semibold tracking-[-0.04em] text-slate-950">30M+</div>
-              <p className="mt-1 text-sm text-slate-500">combined installs</p>
+              <div className="text-3xl font-semibold tracking-[-0.04em] text-slate-950">2</div>
+              <p className="mt-1 text-sm text-slate-500">platforms</p>
             </div>
             <div>
-              <div className="text-3xl font-semibold tracking-[-0.04em] text-slate-950">4.8</div>
-              <p className="mt-1 text-sm text-slate-500">average store rating</p>
+              <div className="text-3xl font-semibold tracking-[-0.04em] text-slate-950">2026</div>
+              <p className="mt-1 text-sm text-slate-500">established</p>
             </div>
           </div>
         </div>
@@ -71,13 +71,13 @@ export function Hero() {
             <div className="absolute bottom-8 right-8 h-32 w-32 rounded-full bg-blue-400/20 blur-3xl" />
             <div className="relative flex w-full max-w-md flex-col items-center text-center">
               <div className="flex h-32 w-32 items-center justify-center rounded-[2rem] bg-[#111827] text-6xl font-semibold tracking-[-0.08em] text-white shadow-[0_20px_50px_rgba(15,23,42,0.22)]">
-                R
+                W
               </div>
               <p className="mt-8 text-xs uppercase tracking-[0.34em] text-slate-500">
-                REN DESIGN
+                Whe Studio
               </p>
               <h2 className="mt-4 text-4xl font-semibold tracking-[-0.05em] text-slate-950 md:text-5xl">
-                ACEDev
+                Whe Studio
               </h2>
               <div className="mt-6 rounded-full border border-black/8 bg-white/70 px-5 py-3 text-sm font-medium text-slate-700 shadow-sm">
                 REN DESIGN JOINT STOCK COMPANY

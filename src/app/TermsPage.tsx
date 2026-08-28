@@ -11,7 +11,7 @@ const sections = [
     id: "services",
     title: "2. Scope of Services",
     body: [
-      "These Terms apply to ACEDev-branded and affiliated digital products, including game websites, mobile games, web features, player support, promotional pages, and related content we make available.",
+      "These Terms apply to Whe Studio-branded and affiliated digital products, including game websites, mobile games, web features, player support, promotional pages, and related content we make available.",
       "Certain features may also be subject to additional notices, platform rules, or in-app terms.",
     ],
   },
@@ -137,7 +137,7 @@ export function TermsPage() {
             </h1>
             <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-600">
               This page sets out the rules, rights, and limitations that apply when you use
-              ACEDev websites, games, and related digital services.
+              Whe Studio websites, games, and related digital services.
             </p>
             <div className="mt-8 flex flex-col gap-3 border-t border-black/8 pt-6 text-sm text-slate-600 md:flex-row md:items-center md:justify-between">
               <div>Last updated: June 8, 2026</div>

@@ -38,9 +38,7 @@ export function Contact() {
                 </div>
                 <h3 className="mt-5 text-lg font-semibold text-slate-950">Account owner</h3>
                 <p className="mt-2 text-sm leading-6 text-slate-600">
-                  toxuantung1305@gmail.com
-                  <br />
-                  (Tung To)
+                  huy.dq161801@gmail.com
                 </p>
               </div>
               <div className="rounded-[1.75rem] bg-white/80 p-6 shadow-sm sm:col-span-2">

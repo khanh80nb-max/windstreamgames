@@ -1,7 +1,7 @@
 
-  # Puzzle Game Company Website
+  # Whe Studio
 
-  This is a code bundle for Puzzle Game Company Website. The original project is available at https://www.figma.com/design/5S29c7oGgC4xvV1T4DHFsj/Puzzle-Game-Company-Website.
+  This is a code bundle for Whe Studio. The original project is available at https://www.figma.com/design/5S29c7oGgC4xvV1T4DHFsj/Puzzle-Game-Company-Website.
 
   ## Running the code
 
