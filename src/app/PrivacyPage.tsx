@@ -3,7 +3,7 @@ const sections = [
     id: "introduction",
     title: "1. Introduction",
     body: [
-      "This Privacy Policy explains how REN DESIGN JOINT STOCK COMPANY and its affiliated operating entity, REN DESIGN CONSTRUCTION INVESTMENT AND ARCHITECTURE JOINT STOCK COMPANY, collect, use, store, and disclose information when users interact with Whe Studio websites, mobile games, applications, support channels, and related services.",
+      "This Privacy Policy explains how HEALING HANDS CLINIC OF GORDON COUNTY, INC. collects, uses, stores, and discloses information when users interact with our websites, applications, support channels, and related services.",
       "This policy applies to our websites, game landing pages, mobile apps, live operations, customer support, and other related digital services we make available.",
       "By using our services, you acknowledge that your information may be processed as described in this policy, subject to applicable law.",
     ],
@@ -96,7 +96,7 @@ const sections = [
     body: [
       "Depending on your location, you may have rights to request access, correction, deletion, restriction, portability, objection, or withdrawal of consent. In some jurisdictions, you may also have rights to complain to a regulator or request information about categories of data, categories of recipients, or specific disclosure practices.",
       "We may need to verify your identity before responding to certain requests, and some requests may be limited where exceptions under applicable law apply.",
-      "If an app or service includes account creation, you may request deletion of your app account and associated data through our account deletion page at https://acedev.tech/account-deletion.html.",
+      "If a service includes account creation, you may request deletion of your account and associated data by contacting us using the details in the Contact Information section below.",
     ],
   },
   {
@@ -119,8 +119,8 @@ const sections = [
     title: "15. Contact Information",
     body: [
       "If you have questions about this Privacy Policy or would like to submit a privacy-related request, you may contact us at the address below.",
-      "REN DESIGN CONSTRUCTION INVESTMENT AND ARCHITECTURE JOINT STOCK COMPANY, Adjacent 6A-27 Nguyen Van Loc, Mo Lao Ward, Ha Noi, Viet Nam (VN).",
-      "Website: https://acedev.tech/ | Account owner contact: toxuantung1305@gmail.com (Tung To).",
+      "HEALING HANDS CLINIC OF GORDON COUNTY, INC., 373 Morrow Rd SE, Calhoun, GA 30701-3717, United States.",
+      "Account owner contact: peltzer.nusi@gmail.com (HILLARY ELICABETH BRYANT).",
     ],
   },
 ];
@@ -140,16 +140,16 @@ export function PrivacyPage() {
           <div className="mt-8 rounded-[2.5rem] border border-black/8 bg-white/80 p-8 shadow-[0_24px_80px_rgba(15,23,42,0.08)] md:p-12">
             <p className="text-xs uppercase tracking-[0.3em] text-slate-500">Privacy Policy</p>
             <h1 className="mt-4 max-w-3xl text-4xl font-semibold tracking-[-0.05em] text-slate-950 md:text-6xl">
-              REN DESIGN JOINT STOCK COMPANY Privacy Policy
+              HEALING HANDS CLINIC OF GORDON COUNTY, INC. Privacy Policy
             </h1>
             <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-600">
               This page describes how information may be collected, used, disclosed, and
-              protected in connection with Whe Studio websites, games, mobile applications,
-              and related services published or operated by REN DESIGN entities.
+              protected in connection with our websites, applications, support channels, and
+              related services.
             </p>
             <div className="mt-8 flex flex-col gap-3 border-t border-black/8 pt-6 text-sm text-slate-600 md:flex-row md:items-center md:justify-between">
-              <div>Last updated: June 8, 2026</div>
-              <div>Adjacent 6A-27 Nguyen Van Loc, Mo Lao Ward, Ha Noi, Viet Nam (VN)</div>
+              <div>Last updated: August 28, 2026</div>
+              <div>373 Morrow Rd SE, Calhoun, GA 30701-3717, United States</div>
             </div>
           </div>
 

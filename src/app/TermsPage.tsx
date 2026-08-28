@@ -3,7 +3,7 @@ const sections = [
     id: "acceptance",
     title: "1. Acceptance of Terms",
     body: [
-      "These Terms of Use govern your access to and use of the websites, games, applications, and related services operated by REN DESIGN JOINT STOCK COMPANY and REN DESIGN CONSTRUCTION INVESTMENT AND ARCHITECTURE JOINT STOCK COMPANY.",
+      "These Terms of Use govern your access to and use of the websites, applications, and related services operated by HEALING HANDS CLINIC OF GORDON COUNTY, INC.",
       "By downloading, accessing, browsing, or using our services, you agree to these Terms. If you do not agree, do not use the services.",
     ],
   },
@@ -11,7 +11,7 @@ const sections = [
     id: "services",
     title: "2. Scope of Services",
     body: [
-      "These Terms apply to Whe Studio-branded and affiliated digital products, including game websites, mobile games, web features, player support, promotional pages, and related content we make available.",
+      "These Terms apply to our websites, applications, web features, support channels, promotional pages, and related content we make available.",
       "Certain features may also be subject to additional notices, platform rules, or in-app terms.",
     ],
   },
@@ -97,7 +97,7 @@ const sections = [
     id: "governing-law",
     title: "13. Governing Law",
     body: [
-      "These Terms are governed by applicable laws relevant to the operating entity and the specific service relationship, without regard to conflict of law principles, except where mandatory consumer protection laws provide otherwise.",
+      "These Terms are governed by the laws of the State of Georgia, United States, without regard to conflict of law principles, except where mandatory consumer protection laws provide otherwise.",
     ],
   },
   {
@@ -112,8 +112,8 @@ const sections = [
     title: "15. Contact Information",
     body: [
       "If you have questions about these Terms of Use, you may contact us using the details below.",
-      "REN DESIGN CONSTRUCTION INVESTMENT AND ARCHITECTURE JOINT STOCK COMPANY, Adjacent 6A-27 Nguyen Van Loc, Mo Lao Ward, Ha Noi, Viet Nam (VN).",
-      "Website: https://acedev.tech/ | Account owner contact: toxuantung1305@gmail.com (Tung To).",
+      "HEALING HANDS CLINIC OF GORDON COUNTY, INC., 373 Morrow Rd SE, Calhoun, GA 30701-3717, United States.",
+      "Account owner contact: peltzer.nusi@gmail.com (HILLARY ELICABETH BRYANT).",
     ],
   },
 ];
@@ -133,15 +133,15 @@ export function TermsPage() {
           <div className="mt-8 rounded-[2.5rem] border border-black/8 bg-white/80 p-8 shadow-[0_24px_80px_rgba(15,23,42,0.08)] md:p-12">
             <p className="text-xs uppercase tracking-[0.3em] text-slate-500">Terms of Use</p>
             <h1 className="mt-4 max-w-3xl text-4xl font-semibold tracking-[-0.05em] text-slate-950 md:text-6xl">
-              REN DESIGN JOINT STOCK COMPANY Terms of Use
+              HEALING HANDS CLINIC OF GORDON COUNTY, INC. Terms of Use
             </h1>
             <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-600">
               This page sets out the rules, rights, and limitations that apply when you use
-              Whe Studio websites, games, and related digital services.
+              our websites, applications, and related digital services.
             </p>
             <div className="mt-8 flex flex-col gap-3 border-t border-black/8 pt-6 text-sm text-slate-600 md:flex-row md:items-center md:justify-between">
-              <div>Last updated: June 8, 2026</div>
-              <div>Adjacent 6A-27 Nguyen Van Loc, Mo Lao Ward, Ha Noi, Viet Nam (VN)</div>
+              <div>Last updated: August 28, 2026</div>
+              <div>373 Morrow Rd SE, Calhoun, GA 30701-3717, United States</div>
             </div>
           </div>
 
