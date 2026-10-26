@@ -6,16 +6,18 @@ export function Footer() {
       <div className="mx-auto flex max-w-7xl flex-col gap-8 border-t border-white/10 pt-8 md:flex-row md:items-end md:justify-between">
         <div className="max-w-md">
           <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-full bg-white text-sm font-semibold text-slate-950">
-              RD
+            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white text-sm font-semibold text-slate-950">
+              HV
             </div>
             <div>
-              <p className="text-xs uppercase tracking-[0.22em] text-white/45">Legal Entity</p>
-              <p className="text-lg font-semibold">REN DESIGN JOINT STOCK COMPANY</p>
+              <p className="text-xs uppercase tracking-[0.22em] text-white/45">Developer</p>
+              <p className="text-lg font-semibold">HV INTERNATIONAL</p>
             </div>
           </div>
           <p className="mt-4 text-sm leading-7 text-white/55">
-            Adjacent 6A-27 Nguyen Van Loc, Mo Lao Ward, Ha Noi, Viet Nam (VN).
+            HUNG VUONG INTERNATIONAL HUMAN RESOURCE DEVELOPMENT AND INVESTMENT CORPORATION
+            <br />
+            Nguyen Cong Thai Street, Dai Kim Urban Area, B9 Dai Kim Building, Floor 2, Ha Noi, Viet Nam (VN).
           </p>
         </div>
 
@@ -30,20 +32,20 @@ export function Footer() {
             <a href="/account-deletion.html" className="transition-colors hover:text-white">Delete Account</a>
           </nav>
           <div className="flex gap-3">
-            <a href="#" className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
+            <a href="#" className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
               <Facebook size={18} />
             </a>
-            <a href="#" className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
+            <a href="#" className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
               <Instagram size={18} />
             </a>
-            <a href="#" className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
+            <a href="#" className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
               <Twitter size={18} />
             </a>
-            <a href="#" className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
+            <a href="#" className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/5 transition-colors hover:bg-white hover:text-slate-950">
               <Youtube size={18} />
             </a>
           </div>
-          <p className="text-sm text-white/40">© 2026 REN DESIGN JOINT STOCK COMPANY. All rights reserved.</p>
+          <p className="text-sm text-white/40">© 2026 HV INTERNATIONAL. All rights reserved.</p>
         </div>
       </div>
     </footer>

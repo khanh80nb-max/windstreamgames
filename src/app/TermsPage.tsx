@@ -3,7 +3,7 @@ const sections = [
     id: "acceptance",
     title: "1. Acceptance of Terms",
     body: [
-      "These Terms of Use govern your access to and use of the websites, games, applications, and related services operated by REN DESIGN JOINT STOCK COMPANY and REN DESIGN CONSTRUCTION INVESTMENT AND ARCHITECTURE JOINT STOCK COMPANY.",
+      "These Terms of Use govern your access to and use of the websites, games, applications, and related services operated by HUNG VUONG INTERNATIONAL HUMAN RESOURCE DEVELOPMENT AND INVESTMENT CORPORATION.",
       "By downloading, accessing, browsing, or using our services, you agree to these Terms. If you do not agree, do not use the services.",
     ],
   },
@@ -11,7 +11,7 @@ const sections = [
     id: "services",
     title: "2. Scope of Services",
     body: [
-      "These Terms apply to ACEDev-branded and affiliated digital products, including game websites, mobile games, web features, player support, promotional pages, and related content we make available.",
+      "These Terms apply to HV INTERNATIONAL-branded and affiliated digital products, including game websites, mobile games, web features, player support, promotional pages, and related content we make available.",
       "Certain features may also be subject to additional notices, platform rules, or in-app terms.",
     ],
   },
@@ -112,8 +112,8 @@ const sections = [
     title: "15. Contact Information",
     body: [
       "If you have questions about these Terms of Use, you may contact us using the details below.",
-      "REN DESIGN CONSTRUCTION INVESTMENT AND ARCHITECTURE JOINT STOCK COMPANY, Adjacent 6A-27 Nguyen Van Loc, Mo Lao Ward, Ha Noi, Viet Nam (VN).",
-      "Website: https://acedev.tech/ | Account owner contact: toxuantung1305@gmail.com (Tung To).",
+      "HUNG VUONG INTERNATIONAL HUMAN RESOURCE DEVELOPMENT AND INVESTMENT CORPORATION, Nguyen Cong Thai Street, Dai Kim Urban Area, B9 Dai Kim Building, Floor 2, Ha Noi, Viet Nam (VN).",
+      "Website: http://hvinterhrmninvest.store/ | Account owner contact: hvinterhrmninvest.corp@gmail.com (Lo Van Cuong).",
     ],
   },
 ];
@@ -133,15 +133,15 @@ export function TermsPage() {
           <div className="mt-8 rounded-[2.5rem] border border-black/8 bg-white/80 p-8 shadow-[0_24px_80px_rgba(15,23,42,0.08)] md:p-12">
             <p className="text-xs uppercase tracking-[0.3em] text-slate-500">Terms of Use</p>
             <h1 className="mt-4 max-w-3xl text-4xl font-semibold tracking-[-0.05em] text-slate-950 md:text-6xl">
-              REN DESIGN JOINT STOCK COMPANY Terms of Use
+              HV INTERNATIONAL Terms of Use
             </h1>
             <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-600">
               This page sets out the rules, rights, and limitations that apply when you use
-              ACEDev websites, games, and related digital services.
+              HV INTERNATIONAL websites, games, and related digital services.
             </p>
             <div className="mt-8 flex flex-col gap-3 border-t border-black/8 pt-6 text-sm text-slate-600 md:flex-row md:items-center md:justify-between">
-              <div>Last updated: June 8, 2026</div>
-              <div>Adjacent 6A-27 Nguyen Van Loc, Mo Lao Ward, Ha Noi, Viet Nam (VN)</div>
+              <div>Last updated: October 26, 2026</div>
+              <div>Nguyen Cong Thai Street, Dai Kim Urban Area, B9 Dai Kim Building, Floor 2, Ha Noi, Viet Nam (VN)</div>
             </div>
           </div>
 

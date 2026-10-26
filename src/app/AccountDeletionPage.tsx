@@ -1,5 +1,5 @@
 const requestSteps = [
-  "Send a request from the email address associated with your app account to toxuantung1305@gmail.com with the subject line: Account Deletion Request.",
+  "Send a request from the email address associated with your app account to hvinterhrmninvest.corp@gmail.com with the subject line: Account Deletion Request.",
   "Include the game or service name, your player ID, username, email address, or other account identifier so we can locate the correct account.",
   "If needed, we may request additional verification before processing deletion in order to protect accounts from unauthorized requests.",
 ];
@@ -30,7 +30,7 @@ export function AccountDeletionPage() {
             </h1>
             <p className="mt-5 max-w-3xl text-lg leading-8 text-slate-600">
               This page is the public web resource users can use to request deletion of an app
-              account and associated data for any REN DESIGN or ACEDev app or service that
+              account and associated data for any HV INTERNATIONAL app or service that
               supports account creation.
             </p>
             <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">
@@ -38,8 +38,8 @@ export function AccountDeletionPage() {
               or have already uninstalled it.
             </p>
             <div className="mt-8 flex flex-col gap-3 border-t border-black/8 pt-6 text-sm text-slate-600 md:flex-row md:items-center md:justify-between">
-              <div>Last updated: June 12, 2026</div>
-              <div>REN DESIGN JOINT STOCK COMPANY</div>
+              <div>Last updated: October 26, 2026</div>
+              <div>HV INTERNATIONAL</div>
             </div>
           </div>
 
@@ -64,10 +64,10 @@ export function AccountDeletionPage() {
                   Request email
                 </p>
                 <a
-                  href="mailto:toxuantung1305@gmail.com?subject=Account%20Deletion%20Request"
-                  className="mt-3 inline-block text-lg font-semibold text-slate-950 underline decoration-slate-300 underline-offset-4"
+                  href="mailto:hvinterhrmninvest.corp@gmail.com?subject=Account%20Deletion%20Request"
+                  className="mt-3 inline-block break-all text-lg font-semibold text-slate-950 underline decoration-slate-300 underline-offset-4"
                 >
-                  toxuantung1305@gmail.com
+                  hvinterhrmninvest.corp@gmail.com
                 </a>
                 <p className="mt-3 text-sm leading-7 text-slate-600">
                   We will review valid requests within a reasonable period and may contact you if

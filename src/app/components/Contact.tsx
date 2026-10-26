@@ -1,4 +1,4 @@
-import { Building2, MapPin } from "lucide-react";
+import { Building2, MapPin, Phone } from "lucide-react";
 import { Button } from "./ui/button";
 
 export function Contact() {
@@ -17,7 +17,7 @@ export function Contact() {
               </p>
               <div className="mt-8 flex flex-col gap-4 sm:flex-row">
                 <Button className="h-auto rounded-full bg-[#111827] px-6 py-3 text-white hover:bg-[#1f2937]">
-                  REN DESIGN JOINT STOCK COMPANY
+                  HV INTERNATIONAL
                 </Button>
               </div>
             </div>
@@ -29,7 +29,7 @@ export function Contact() {
                 </div>
                 <h3 className="mt-5 text-lg font-semibold text-slate-950">Legal name</h3>
                 <p className="mt-2 text-sm leading-6 text-slate-600">
-                  REN DESIGN CONSTRUCTION INVESTMENT AND ARCHITECTURE JOINT STOCK COMPANY
+                  HUNG VUONG INTERNATIONAL HUMAN RESOURCE DEVELOPMENT AND INVESTMENT CORPORATION
                 </p>
               </div>
               <div className="rounded-[1.75rem] bg-white/80 p-6 shadow-sm">
@@ -38,9 +38,11 @@ export function Contact() {
                 </div>
                 <h3 className="mt-5 text-lg font-semibold text-slate-950">Account owner</h3>
                 <p className="mt-2 text-sm leading-6 text-slate-600">
-                  toxuantung1305@gmail.com
+                  Lo Van Cuong
                   <br />
-                  (Tung To)
+                  <a href="mailto:hvinterhrmninvest.corp@gmail.com" className="break-all transition-colors hover:text-slate-950">
+                    hvinterhrmninvest.corp@gmail.com
+                  </a>
                 </p>
               </div>
               <div className="rounded-[1.75rem] bg-white/80 p-6 shadow-sm sm:col-span-2">
@@ -49,21 +51,30 @@ export function Contact() {
                 </div>
                 <h3 className="mt-5 text-lg font-semibold text-slate-950">Registered address</h3>
                 <p className="mt-2 text-sm leading-6 text-slate-600">
-                  Adjacent 6A-27 Nguyen Van Loc
+                  Nguyen Cong Thai Street, Dai Kim Urban Area
                   <br />
-                  Mo Lao Ward
+                  B9 Dai Kim Building, Floor 2
                   <br />
                   Ha Noi - Viet Nam (VN)
                 </p>
               </div>
-              <div className="rounded-[1.75rem] bg-white/80 p-6 shadow-sm sm:col-span-2">
+              <div className="rounded-[1.75rem] bg-white/80 p-6 shadow-sm">
+                <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-slate-950 text-white">
+                  <Phone size={20} />
+                </div>
+                <h3 className="mt-5 text-lg font-semibold text-slate-950">Phone</h3>
+                <p className="mt-2 text-sm leading-6 text-slate-600">
+                  <a href="tel:+84584318825" className="transition-colors hover:text-slate-950">+84584318825</a>
+                </p>
+              </div>
+              <div className="rounded-[1.75rem] bg-white/80 p-6 shadow-sm">
                 <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-slate-950 text-white">
                   <Building2 size={20} />
                 </div>
                 <h3 className="mt-5 text-lg font-semibold text-slate-950">Website</h3>
                 <p className="mt-2 text-sm leading-6 text-slate-600">
-                  <a href="https://acedev.tech/" className="transition-colors hover:text-slate-950">
-                    acedev.tech
+                  <a href="http://hvinterhrmninvest.store/" className="break-all transition-colors hover:text-slate-950">
+                    hvinterhrmninvest.store
                   </a>
                 </p>
               </div>

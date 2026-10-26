@@ -15,12 +15,12 @@ export function About() {
           <div>
             <p className="text-sm uppercase tracking-[0.28em] text-white/45">About the studio</p>
             <h2 className="mt-4 max-w-2xl text-4xl font-semibold tracking-[-0.04em] text-white md:text-5xl">
-              A simpler studio page for a studio that ships fast.
+              Mobile puzzle games from HV INTERNATIONAL.
             </h2>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-white/72">
-              The old version read like a generic landing page. This redesign shifts the tone
-              closer to a modern game publisher site: large statements, fewer decorative blocks,
-              and more emphasis on what the studio actually makes.
+              HV INTERNATIONAL is the developer name of HUNG VUONG INTERNATIONAL HUMAN
+              RESOURCE DEVELOPMENT AND INVESTMENT CORPORATION, based in Ha Noi, Viet Nam.
+              We build mobile games and digital products with a focus on clear, accessible play.
             </p>
             <div className="mt-10 grid gap-4 md:grid-cols-3">
               <div className="rounded-[1.75rem] border border-white/10 bg-white/5 p-5">
@@ -52,9 +52,8 @@ export function About() {
               ))}
             </div>
             <p className="mt-8 border-t border-white/10 pt-6 text-sm leading-7 text-white/60">
-              PuzzleCraft is positioned as a compact mobile-first studio with a sharper,
-              more editorial presentation. The page now communicates that in the first few
-              scrolls instead of hiding it behind repeated cards and gradients.
+              Explore our mobile puzzle games and contact HV INTERNATIONAL for
+              company information, player support, and privacy requests.
             </p>
           </div>
         </div>

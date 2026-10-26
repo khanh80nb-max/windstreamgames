@@ -20,17 +20,17 @@ export function Header() {
         <div className="flex h-16 items-center justify-between rounded-full border border-black/8 bg-[#fcfbf7]/90 px-5 shadow-[0_8px_30px_rgba(15,23,42,0.06)] backdrop-blur">
           <a href="#home" className="flex items-center gap-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-full bg-[#111827] text-sm font-semibold text-white">
-              R
+              HV
             </div>
             <div>
               <div className="text-[0.7rem] uppercase tracking-[0.24em] text-slate-500">
-                REN DESIGN
+                HV INTERNATIONAL
               </div>
-              <span className="text-base font-semibold text-slate-950">ACEDev</span>
+              <span className="text-base font-semibold text-slate-950">Mobile Games</span>
             </div>
           </a>
 
-          <nav className="hidden items-center gap-8 md:flex">
+          <nav className="hidden items-center gap-6 lg:flex">
             {navItems.map((item) => (
               <a
                 key={item.href}
@@ -42,14 +42,14 @@ export function Header() {
             ))}
           </nav>
 
-          <div className="hidden md:block">
+          <div className="hidden lg:block">
             <Button asChild className="h-11 rounded-full bg-[#111827] px-5 text-sm text-white hover:bg-[#1f2937]">
               <a href="#games">Explore Games</a>
             </Button>
           </div>
 
           <button
-            className="p-2 text-slate-600 md:hidden"
+            className="p-2 text-slate-600 lg:hidden"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
             {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
@@ -57,7 +57,7 @@ export function Header() {
         </div>
 
         {isMenuOpen && (
-          <nav className="mt-3 rounded-3xl border border-black/8 bg-[#fcfbf7] p-5 shadow-[0_8px_30px_rgba(15,23,42,0.06)] md:hidden">
+          <nav className="mt-3 rounded-3xl border border-black/8 bg-[#fcfbf7] p-5 shadow-[0_8px_30px_rgba(15,23,42,0.06)] lg:hidden">
             {navItems.map((item) => (
               <a
                 key={item.href}
